@@ -1,7 +1,7 @@
 <?php
 
 
-class DataTrafficWithDatabase
+abstract class DataTrafficWithDatabase
 {
     private $server_name = "localhost";
     private $database_username = "root";
